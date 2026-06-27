@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Kunal%20Kumar&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20WordPress%20•%20PHP&descAlignY=60"/>
