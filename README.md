@@ -1,57 +1,56 @@
-```md
 <div align="center">
 
 # 👋 Hi, I'm Kunal Kumar
 
-### Frontend Developer | React.js | JavaScript | PHP | WordPress
+### Frontend Developer • React.js • JavaScript • PHP • WordPress
 
-Building responsive, scalable, SEO-friendly, and high-performance web applications with modern technologies.
+**Building fast, scalable, responsive, and user-centric web applications.**
+
+<p align="center">
+<a href="https://www.fluxdev.live/"><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge"/></a>
+<a href="https://github.com/itskunal786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/kunalkumarkk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kumarkunalkk0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+## 🚀 Professional Summary
+
+Frontend Developer with **2+ years of experience** developing modern, responsive, SEO-friendly, and high-performance web applications.
+
+**Core Technologies**
+
+* React.js
+* JavaScript (ES6+)
+* PHP
+* WordPress
+* HTML5
+* CSS3
+* Bootstrap
+* MySQL
+* REST APIs
+* Git & GitHub
+
+---
+
+## 💻 Tech Stack
 
 <p align="center">
 
-<a href="https://www.fluxdev.live/">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/itskunal786">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/kunalkumarkk">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:kumarkunalkk0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,mysql,wordpress,git,github,vscode,figma,postman"/>
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=850&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Modern+Web+Applications"/>
-
-</div>
-
 ---
 
-# 🚀 Professional Summary
+# 💼 Professional Experience
 
-Frontend Developer with **2+ years of professional experience** in designing and developing responsive, scalable, and high-performance web applications.
+✔ 2+ Years of Industry Experience
 
-Experienced in **React.js, JavaScript (ES6+), PHP, WordPress, MySQL, HTML5, CSS3, Bootstrap, REST APIs, Git, and GitHub**.
+✔ Responsive Web Development
 
-Passionate about building clean user interfaces, reusable components, optimized websites, and delivering exceptional user experiences.
-
----
-
-# 💼 Professional Highlights
-
-✔ 2+ Years of Professional Experience
-
-✔ Frontend Web Development
-
-✔ React.js Application Development
+✔ React.js Applications
 
 ✔ WordPress Development
 
@@ -59,39 +58,11 @@ Passionate about building clean user interfaces, reusable components, optimized 
 
 ✔ REST API Integration
 
-✔ Performance Optimization
+✔ Website Performance Optimization
 
-✔ SEO Optimization
-
-✔ Responsive Design
+✔ SEO Best Practices
 
 ✔ Cross-Browser Compatibility
-
-✔ Git Version Control
-
-✔ Clean & Maintainable Code
-
----
-
-# 💻 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,php,mysql,html,css,bootstrap,wordpress,git,github,vscode,figma,postman"/>
-
-</p>
-
----
-
-# ⚡ Core Skills
-
-| Frontend | Backend | Database | CMS | Tools |
-|-----------|----------|-----------|------|--------|
-| React.js | PHP | MySQL | WordPress | Git |
-| JavaScript | REST API | SQL | Elementor | GitHub |
-| HTML5 | Authentication | Database Design | WooCommerce | VS Code |
-| CSS3 | API Integration | CRUD Operations | Custom Themes | Postman |
-| Bootstrap | Performance Optimization | Query Optimization | SEO | Figma |
 
 ---
 
@@ -99,188 +70,62 @@ Passionate about building clean user interfaces, reusable components, optimized 
 
 ## 🌐 FluxDev
 
-**🔗 Live:** https://www.fluxdev.live/
+**Live:** https://www.fluxdev.live/
 
-**Role:** Frontend Developer
+A modern web platform developed with a focus on responsive design, performance optimization, and user experience.
 
-A modern web platform focused on responsive design, business solutions, performance optimization, and seamless user experience.
+**Technology**
 
-### Tech Stack
-
-- PHP
-- React.js
-- JavaScript
-- MySQL
-- HTML5
-- CSS3
-
-### Key Contributions
-
-- Developed responsive UI components
-- Integrated frontend with backend modules
-- Optimized website performance
-- Improved loading speed
-- Fixed UI/UX issues
-- Implemented reusable code structure
+React.js • JavaScript • CSS3
 
 ---
 
 ## 📍 UseLocator
 
-**🔗 Live:** https://uselocator.com/
+**Live:** https://uselocator.com/
 
-**Role:** WordPress Developer
-
-A location-based business directory built using WordPress with responsive layouts and SEO-friendly architecture.
-
-### Tech Stack
-
-- WordPress
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- MySQL
-
-### Key Contributions
-
-- WordPress Theme Customization
-- Plugin Configuration
-- Responsive Layout Development
-- SEO Optimization
-- Website Maintenance
-- Performance Improvements
+Location-based business platform with responsive UI and optimized frontend performance.
 
 ---
 
 ## 🎓 CIT Education
 
-**🔗 Live:** https://citeducation.co.in/
+**Live:** https://citeducation.co.in/
 
-**Role:** Full Stack Developer
-
-A modern education platform developed using PHP, React.js, and MySQL with responsive UI and optimized backend functionality.
-
-### Tech Stack
-
-- React.js
-- PHP
-- JavaScript
-- MySQL
-- HTML5
-- CSS3
-
-### Key Contributions
-
-- Developed responsive frontend
-- Built reusable React components
-- Integrated PHP backend
-- Database management using MySQL
-- Improved application performance
-- Bug fixing & optimization
+Educational website with responsive layouts, SEO optimization, and WordPress customization.
 
 ---
 
 ## ✈️ TripMart
 
-**🔗 Live:** https://tripmart.co.in/
+**Live:** https://tripmart.co.in/
 
-**Role:** WordPress Developer
-
-A travel platform developed using WordPress with responsive layouts and optimized user experience.
-
-### Tech Stack
-
-- WordPress
-- PHP
-- JavaScript
-- HTML5
-- CSS3
-- MySQL
-
-### Key Contributions
-
-- Responsive Website Development
-- WordPress Customization
-- Performance Optimization
-- SEO Enhancements
-- Cross-browser Compatibility
-- Website Maintenance
+Travel platform featuring responsive design, optimized user experience, and modern web technologies.
 
 ---
 
 ## 💳 USL Pay
 
-**🔗 Live:** http://uslpay.com/web/Index.aspx
+**Live:** http://uslpay.com/web/Index.aspx
 
-**Role:** Frontend Developer
-
-A secure payment platform focused on responsive interfaces and enhanced user experience.
-
-### Tech Stack
-
-- ASP.NET
-- HTML5
-- CSS3
-- JavaScript
-
-### Key Contributions
-
-- Responsive UI Development
-- UI Enhancements
-- Browser Compatibility
-- Performance Optimization
-- Bug Fixing
+Payment platform focused on secure, responsive, and user-friendly web interfaces.
 
 ---
 
-# 📊 GitHub Statistics
+# 🎯 Core Skills
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itskunal786&theme=transparent&hide_border=true"/>
-
-</p>
-
----
-
-# 🎯 What I Do
-
-✅ Build Responsive Websites
-
-✅ Develop React.js Applications
-
-✅ Create Custom WordPress Solutions
-
-✅ Develop Dynamic PHP Applications
-
-✅ Integrate REST APIs
-
-✅ Optimize Website Performance
-
-✅ Improve SEO & Accessibility
-
-✅ Debug & Troubleshoot Applications
-
-✅ Write Clean & Reusable Code
-
----
-
-# 📚 Currently Learning
-
-- Advanced React.js
-- Next.js
-- TypeScript
-- Performance Engineering
-- Scalable Frontend Architecture
+* Frontend Development
+* React.js
+* JavaScript
+* PHP
+* WordPress
+* Responsive Web Design
+* REST APIs
+* Website Optimization
+* SEO
+* Git & GitHub
+* Debugging
+* Performance Optimization
 
 ---
 
@@ -288,31 +133,26 @@ A secure payment platform focused on responsive interfaces and enhanced user exp
 
 📧 **Email**
 
-**kumarkunalkk0@gmail.com**
+**[kumarkunalkk0@gmail.com](mailto:kumarkunalkk0@gmail.com)**
 
 💼 **LinkedIn**
 
-**https://www.linkedin.com/in/kunalkumarkk**
+https://www.linkedin.com/in/kunalkumarkk
 
 💻 **GitHub**
 
-**https://github.com/itskunal786**
+https://github.com/itskunal786
 
 🌐 **Portfolio**
 
-**https://www.fluxdev.live/**
+https://www.fluxdev.live/
 
 ---
 
 <div align="center">
 
-## ⭐ Thank You for Visiting!
+### ⭐ Thanks for visiting my portfolio!
 
-*"Passionate about transforming ideas into scalable, responsive, and high-performance web applications."*
-
-### If you like this repository, don't forget to ⭐ Star it.
-
-Made with ❤️ by **Kunal Kumar**
+*"Building clean code, scalable applications, and exceptional user experiences."*
 
 </div>
-```
