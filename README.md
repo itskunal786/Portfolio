@@ -28,6 +28,15 @@ Building fast, scalable and user-focused web applications with modern technologi
 
 ---
 
+## 🚀 Professional Snapshot
+
+
+👨‍💻 Experience     : 2+ Years
+🚀 Projects         : 30+
+🌍 Websites Built   : 20+
+📍 Location         : India
+💼 Open To Work     : Yes
+
 # 🚀 Professional Summary
 
 Frontend Developer with **2+ years of experience** designing and developing responsive, scalable, and SEO-friendly web applications.
