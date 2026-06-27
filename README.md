@@ -1,10 +1,12 @@
 <div align="center">
 
-# Kunal Kumar
+# 👋 Hi, I'm Kunal Kumar
 
 ### Frontend Developer • React.js • JavaScript • PHP • WordPress
 
-Building modern, scalable & high-performance web applications.
+<p>
+Building fast, scalable and user-focused web applications with modern technologies.
+</p>
 
 <p>
 
@@ -14,83 +16,75 @@ Building modern, scalable & high-performance web applications.
 
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2563EB?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20To-Work-22C55E?style=for-the-badge"/>
 
 <img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge"/>
 
 </p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;JavaScript+Enthusiast;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Beautiful+Web+Experiences"/>
 
 </div>
 
 ---
 
-# About Me
+# 🚀 Professional Summary
 
-Frontend Developer with **2+ years of experience** developing modern, responsive, SEO-friendly, and scalable web applications.
+Frontend Developer with **2+ years of experience** designing and developing responsive, scalable, and SEO-friendly web applications.
 
-I specialize in creating clean user interfaces, reusable components, custom WordPress solutions, REST API integrations, and performance-optimized websites using modern frontend technologies.
+Experienced in **React.js, JavaScript (ES6+), PHP, WordPress, HTML5, CSS3, Bootstrap, MySQL, Git, and REST APIs**.
 
----
-
-# Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,php,mysql,wordpress,git,github,vscode,figma,postman"/>
-
-</p>
+Passionate about creating clean UI, reusable components, performance optimization, and delivering high-quality user experiences.
 
 ---
 
-# Professional Skills
+# 💻 Tech Stack
 
-```text
-✓ React.js Development
-✓ JavaScript (ES6+)
-✓ WordPress Development
-✓ PHP Development
-✓ Responsive Web Design
-✓ REST API Integration
-✓ Performance Optimization
-✓ SEO Optimization
-✓ Cross Browser Compatibility
-✓ Git & GitHub
-✓ Debugging
-✓ Problem Solving
-```
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,bootstrap,php,mysql,wordpress,git,github,vscode,figma,postman"/>
+
+</div>
 
 ---
 
-# Featured Projects
+# ⚡ Core Expertise
 
-### Personal Portfolio
-
-Professional developer portfolio showcasing projects, experience, technical skills, and resume.
-
-**Technology**
-
-- React.js
-- JavaScript
-- HTML5
-- CSS3
+| Frontend | Backend | CMS | Tools |
+|-----------|----------|------|--------|
+| React.js | PHP | WordPress | Git |
+| JavaScript | MySQL | Elementor | GitHub |
+| HTML5 | REST APIs | WooCommerce | VS Code |
+| CSS3 | API Integration | SEO | Postman |
+| Bootstrap | Performance | Responsive Design | Figma |
 
 ---
 
-### Business Website
+# 📂 Featured Projects
 
-Developed custom WordPress websites with responsive layouts, SEO optimization, and enhanced performance.
+## 🌐 Personal Portfolio
+
+Modern developer portfolio showcasing projects, skills, experience and resume.
+
+**Tech**
+
+React.js • JavaScript • HTML5 • CSS3
 
 ---
 
-### React Applications
+## 💼 Business Website
 
-Built reusable React components with API integration, routing, state management, and responsive design.
+Responsive business website with custom WordPress functionality, SEO optimization and performance improvements.
 
 ---
 
-# GitHub Analytics
+## ⚛ React Applications
+
+A collection of React applications demonstrating reusable components, API integration, routing and state management.
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
 
@@ -100,8 +94,6 @@ Built reusable React components with API integration, routing, state management,
 
 </p>
 
----
-
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=itskunal786&theme=transparent&hide_border=true"/>
@@ -110,17 +102,37 @@ Built reusable React components with API integration, routing, state management,
 
 ---
 
-# Currently Learning
+# 🎯 What I Do
 
-- Advanced React.js
-- TypeScript
-- Next.js
-- Performance Optimization
-- Full Stack Development
+✔ Build Responsive Websites
+
+✔ Develop React.js Applications
+
+✔ Create Custom WordPress Solutions
+
+✔ Integrate REST APIs
+
+✔ Optimize Website Performance
+
+✔ Improve SEO & Accessibility
+
+✔ Write Clean & Maintainable Code
+
+✔ Deliver Production-Ready Web Applications
 
 ---
 
-# Connect With Me
+# 📚 Currently Learning
+
+- Next.js
+- TypeScript
+- Advanced React Patterns
+- Performance Engineering
+- System Design
+
+---
+
+# 🤝 Let's Connect
 
 <p align="center">
 
@@ -146,8 +158,8 @@ Built reusable React components with API integration, routing, state management,
 
 <div align="center">
 
-### "Code. Learn. Build. Repeat."
+## ⭐ Thanks for visiting my portfolio!
 
-⭐ If you found this repository useful, consider giving it a star.
+*"Turning ideas into scalable, high-performance web experiences."*
 
 </div>
