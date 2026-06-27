@@ -1,158 +1,242 @@
+````md
 <div align="center">
 
-# 👋 Hi, I'm Kunal Kumar
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Kunal%20Kumar&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20WordPress%20•%20PHP&descAlignY=60"/>
 
-### Frontend Developer • React.js • JavaScript • PHP • WordPress
+<br>
 
-**Building fast, scalable, responsive, and user-centric web applications.**
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Scalable+Web+Applications;Performance+%7C+SEO+%7C+Clean+Code"/>
 
-<p align="center">
-<a href=""><img src="https://img.shields.io/badge/🌐 Portfolio-blue?style=for-the-badge"/></a>
-<a href="https://github.com/itskunal786"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/kunalkumarkk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:kumarkunalkk0@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+<br><br>
 
----
+<a href="https://www.fluxdev.live">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
+</a>
 
-## 🚀 Professional Summary
+<a href="https://github.com/itskunal786">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-Frontend Developer with **2+ years of experience** developing modern, responsive, SEO-friendly, and high-performance web applications.
+<a href="https://www.linkedin.com/in/kunalkumarkk">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-**Core Technologies**
+<a href="mailto:kumarkunalkk0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
 
-* React.js
-* JavaScript (ES6+)
-* PHP
-* WordPress
-* HTML5
-* CSS3
-* Bootstrap
-* MySQL
-* REST APIs
-* Git & GitHub
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge&color=blue"/>
+
+</div>
 
 ---
 
-## 💻 Tech Stack
+# 👋 About Me
 
-<p align="center">
+```yaml
+Name: Kunal Kumar
+Role: Frontend Developer
+Experience: 2+ Years
+Location: India
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,mysql,wordpress,git,github,vscode,figma,postman"/>
-
-</p>
+Specialization:
+  - React.js
+  - JavaScript (ES6+)
+  - PHP
+  - WordPress
+  - MySQL
+  - REST APIs
+  - SEO Optimization
+  - Responsive UI
+````
 
 ---
 
-# 💼 Professional Experience
+# ⚡ Tech Stack
 
-✔ 2+ Years of Industry Experience
+<div align="center">
 
-✔ Responsive Web Development
+<img src="https://skillicons.dev/icons?i=react,js,php,mysql,nextjs,html,css,bootstrap,wordpress,git,github,vscode,figma,postman"/>
 
-✔ React.js Applications
+</div>
 
-✔ WordPress Development
+---
 
-✔ PHP Development
+# 🚀 Professional Highlights
 
-✔ REST API Integration
-
-✔ Website Performance Optimization
-
-✔ SEO Best Practices
-
-✔ Cross-Browser Compatibility
+✅ 2+ Years Experience
+✅ Production Ready Websites
+✅ Responsive UI Development
+✅ React.js Applications
+✅ WordPress Solutions
+✅ REST API Integration
+✅ Performance Optimization
+✅ SEO Improvements
+✅ Cross Browser Compatibility
+✅ Reusable Components
 
 ---
 
 # 🌟 Featured Projects
 
+<table>
+
+<tr>
+<td width="50%">
+
 ## 🌐 FluxDev
 
-**Live:** https://www.fluxdev.live/
+Modern business platform with responsive UI and optimized performance.
 
-A modern web platform developed with a focus on responsive design, performance optimization, and user experience.
+**Tech**
 
-**Technology**
+* React.js
+* PHP
+* MySQL
+* JavaScript
 
-React.js • JavaScript • CSS3
+🔗 https://www.fluxdev.live
 
----
+</td>
+
+<td width="50%">
 
 ## 📍 UseLocator
 
-**Live:** https://uselocator.com/
+Location-based business platform with SEO architecture.
 
-Location-based business platform with responsive UI and optimized frontend performance.
+**Tech**
 
----
+* WordPress
+* PHP
+* JavaScript
+
+🔗 https://uselocator.com
+
+</td>
+</tr>
+
+<tr>
+<td>
 
 ## 🎓 CIT Education
 
-**Live:** https://citeducation.co.in/
+Education platform using React + PHP.
 
-Educational website with responsive layouts, SEO optimization, and WordPress customization.
+🔗 https://citeducation.co.in
 
----
+</td>
+
+<td>
 
 ## ✈️ TripMart
 
-**Live:** https://tripmart.co.in/
+Travel website with responsive experience.
 
-Travel platform featuring responsive design, optimized user experience, and modern web technologies.
+🔗 https://tripmart.co.in
 
----
+</td>
+</tr>
 
-## 💳 USL Pay
-
-**Live:** http://uslpay.com/web/Index.aspx
-
-Payment platform focused on secure, responsive, and user-friendly web interfaces.
+</table>
 
 ---
 
-# 🎯 Core Skills
+# 📊 GitHub Statistics
 
-* Frontend Development
-* React.js
-* JavaScript
-* PHP
-* WordPress
-* Responsive Web Design
-* REST APIs
-* Website Optimization
-* SEO
-* Git & GitHub
-* Debugging
-* Performance Optimization
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=itskunal786&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-# 📫 Connect With Me
+# 🏆 GitHub Achievements
 
-📧 **Email**
+<div align="center">
 
-**[kumarkunalkk0@gmail.com](mailto:kumarkunalkk0@gmail.com)**
+<img src="https://github-profile-trophy.vercel.app/?username=itskunal786&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
-💼 **LinkedIn**
+</div>
 
-https://www.linkedin.com/in/kunalkumarkk
+---
 
-💻 **GitHub**
+# 📈 Contribution Graph
 
-https://github.com/itskunal786
+<div align="center">
 
-🌐 **Portfolio**
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itskunal786&theme=tokyo-night&hide_border=true"/>
 
+</div>
 
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🎯 Current Focus
+
+🚀 Next.js
+⚡ TypeScript
+🏗 Scalable Frontend Architecture
+🔥 Performance Engineering
+
+---
+
+# ☕ Dev Philosophy
+
+> Build Clean
+> Ship Fast
+> Scale Better
+
+---
+
+# 📫 Connect
+
+📧 Email
+[kumarkunalkk0@gmail.com](mailto:kumarkunalkk0@gmail.com)
+
+💼 LinkedIn
+linkedin.com/in/kunalkumarkk
+
+💻 GitHub
+github.com/itskunal786
+
+🌐 Portfolio
+fluxdev.live
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my portfolio!
+## ⭐ Thanks For Visiting
 
-*"Building clean code, scalable applications, and exceptional user experiences."*
+Building premium experiences through code.
+
+Made with ❤️ by Kunal Kumar
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
+
+```
+```
