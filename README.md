@@ -1,140 +1,110 @@
-<div align="center">
+# 👋 Hi, I'm Kunal Kumar
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:1e3a8a,70:2563eb,100:60a5fa&text=Kunal%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20WordPress%20•%20PHP&descAlignY=62"/>
+### Frontend Developer | React.js | JavaScript | PHP | WordPress
 
-<br>
+🚀 Passionate Frontend Developer with **2+ years of experience** building responsive, scalable, and high-performance web applications. Experienced in developing modern user interfaces, custom WordPress websites, REST API integration, and performance optimization using React.js, JavaScript, PHP, HTML5, CSS3, Bootstrap, and MySQL.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&color=60A5FA&lines=Building+Modern+Web+Applications;React.js+Developer;WordPress+Developer;Performance+Focused;Clean+Code+%7C+Great+UX"/>
-
-<br><br>
-
-<a href="https://www.fluxdev.live">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/itskunal786">
-<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/kunalkumarkk">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kumarkunalkk0@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=itskunal786&style=flat-square&color=2563eb"/>
-
-</div>
+I focus on writing clean, maintainable, and reusable code while delivering fast, SEO-friendly, and user-centric web solutions.
 
 ---
 
-# ✨ About Me
+## 💼 Professional Summary
 
-```txt
-Frontend Developer with 2+ years of experience
-building fast, responsive and scalable web applications.
-
-Focused on:
-• React.js
-• JavaScript
-• WordPress
-• PHP
-• Performance Optimization
-```
+- ✅ 2+ Years of Frontend Development Experience
+- ✅ Responsive & Mobile-First Web Development
+- ✅ React.js Application Development
+- ✅ Custom WordPress Development
+- ✅ REST API Integration
+- ✅ Performance & SEO Optimization
+- ✅ Cross-Browser Compatibility
+- ✅ Clean & Maintainable Code
+- ✅ Git Version Control
 
 ---
 
-# ⚡ Tech Stack
+## 🚀 Tech Stack
 
-<div align="center">
+### Frontend
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- Bootstrap
+- Responsive Design
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,js,php,mysql,html,css,bootstrap,wordpress,git,github,vscode,figma"/>
+### Backend
+- PHP
+- MySQL
 
-</div>
+### CMS
+- WordPress
+- Elementor
+- WooCommerce
 
----
-
-# 🚀 Featured Projects
-
-<div align="center">
-
-| Project          | Description                      |
-| :--------------- | :------------------------------- |
-| 🌐 FluxDev       | Responsive business platform     |
-| 📍 UseLocator    | Directory & SEO focused platform |
-| 🎓 CIT Education | Modern education platform        |
-| ✈️ TripMart      | Travel experience website        |
-| 💳 USL Pay       | Payment interface improvements   |
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=transparent&hide_border=true"/>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=itskunal786&theme=transparent&hide_border=true"/>
-
-</div>
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
 
 ---
 
-# 🏆 Achievements
+## 📂 Featured Projects
 
-<div align="center">
+### 🌐 Personal Portfolio
+Modern portfolio website showcasing my projects, technical skills, professional experience, and resume.
 
-<img src="https://github-profile-trophy.vercel.app/?username=itskunal786&theme=algolia&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itskunal786&theme=github-dark&hide_border=true"/>
-
-</div>
+**Tech Stack**
+- React.js
+- JavaScript
+- HTML5
+- CSS3
 
 ---
 
-# 🎯 Currently Learning
+### 💼 Business Website
+Developed a responsive business website with custom WordPress functionality and SEO optimization.
 
-```txt
-→ Next.js
-→ TypeScript
-→ Scalable Frontend Architecture
-→ High Performance Systems
-```
-
----
-
-# 📫 Connect
-
-Portfolio → fluxdev.live
-GitHub → github.com/itskunal786
-LinkedIn → linkedin.com/in/kunalkumarkk
+**Tech Stack**
+- WordPress
+- PHP
+- Elementor
 
 ---
 
-<div align="center">
+### ⚛ React Projects
+A collection of React.js applications demonstrating component-based architecture, state management, routing, and API integration.
 
-### Thanks for visiting ✨
+---
 
-Build → Improve → Ship
+## 💡 Core Competencies
 
-</div>
+- Frontend Development
+- React.js
+- JavaScript
+- WordPress Development
+- PHP Development
+- REST API Integration
+- UI/UX Implementation
+- Responsive Web Design
+- Website Optimization
+- Git & GitHub
+- Debugging & Troubleshooting
+- Performance Optimization
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:2563eb,100:60a5fa"/>
+---
+
+## 📫 Connect With Me
+
+📧 Email: your-email@example.com
+
+💼 LinkedIn: https://linkedin.com/in/your-profile
+
+💻 GitHub: https://github.com/itskunal786
+
+🌐 Portfolio: https://your-portfolio-link.com
+
+---
+
+⭐ Thank you for visiting my profile. Feel free to explore my repositories and connect with me for collaboration or opportunities.
