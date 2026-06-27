@@ -35,7 +35,7 @@
 
 # 👋 About Me
 
-```yaml
+
 Name: Kunal Kumar
 Role: Frontend Developer
 Experience: 2+ Years
@@ -50,9 +50,9 @@ Specialization:
   - REST APIs
   - SEO Optimization
   - Responsive UI
-````
 
----
+
+
 
 # ⚡ Tech Stack
 
@@ -66,7 +66,7 @@ Specialization:
 
 # 🚀 Professional Highlights
 
-✅ 2+ Years Experience
+✅ 2+ Years Experience<br>
 ✅ Production Ready Websites
 ✅ Responsive UI Development
 ✅ React.js Applications
