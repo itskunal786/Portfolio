@@ -1,242 +1,140 @@
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,50:2563eb,100:7c3aed&text=Kunal%20Kumar&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20WordPress%20•%20PHP&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0d1117,35:1e3a8a,70:2563eb,100:60a5fa&text=Kunal%20Kumar&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20•%20React.js%20•%20WordPress%20•%20PHP&descAlignY=62"/>
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=900&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Scalable+Web+Applications;Performance+%7C+SEO+%7C+Clean+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=28&duration=3000&pause=800&center=true&vCenter=true&width=900&color=60A5FA&lines=Building+Modern+Web+Applications;React.js+Developer;WordPress+Developer;Performance+Focused;Clean+Code+%7C+Great+UX"/>
 
 <br><br>
 
 <a href="https://www.fluxdev.live">
-<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
 <a href="https://github.com/itskunal786">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/kunalkumarkk">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://linkedin.com/in/kunalkumarkk">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:kumarkunalkk0@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=itskunal786&style=flat-square&color=2563eb"/>
 
 </div>
 
 ---
 
-# 👋 About Me
+# ✨ About Me
 
+```txt
+Frontend Developer with 2+ years of experience
+building fast, responsive and scalable web applications.
 
-Name: Kunal Kumar
-Role: Frontend Developer
-Experience: 2+ Years
-Location: India
+Focused on:
+• React.js
+• JavaScript
+• WordPress
+• PHP
+• Performance Optimization
+```
 
-Specialization:
-  - React.js
-  - JavaScript (ES6+)
-  - PHP
-  - WordPress
-  - MySQL
-  - REST APIs
-  - SEO Optimization
-  - Responsive UI
-
-
-
+---
 
 # ⚡ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,js,php,mysql,nextjs,html,css,bootstrap,wordpress,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,js,php,mysql,html,css,bootstrap,wordpress,git,github,vscode,figma"/>
 
 </div>
 
 ---
 
-# 🚀 Professional Highlights
-
-✅ 2+ Years Experience<br>
-✅ Production Ready Websites
-✅ Responsive UI Development
-✅ React.js Applications
-✅ WordPress Solutions
-✅ REST API Integration
-✅ Performance Optimization
-✅ SEO Improvements
-✅ Cross Browser Compatibility
-✅ Reusable Components
-
----
-
-# 🌟 Featured Projects
-
-<table>
-
-<tr>
-<td width="50%">
-
-## 🌐 FluxDev
-
-Modern business platform with responsive UI and optimized performance.
-
-**Tech**
-
-* React.js
-* PHP
-* MySQL
-* JavaScript
-
-🔗 https://www.fluxdev.live
-
-</td>
-
-<td width="50%">
-
-## 📍 UseLocator
-
-Location-based business platform with SEO architecture.
-
-**Tech**
-
-* WordPress
-* PHP
-* JavaScript
-
-🔗 https://uselocator.com
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-## 🎓 CIT Education
-
-Education platform using React + PHP.
-
-🔗 https://citeducation.co.in
-
-</td>
-
-<td>
-
-## ✈️ TripMart
-
-Travel website with responsive experience.
-
-🔗 https://tripmart.co.in
-
-</td>
-</tr>
-
-</table>
-
----
-
-# 📊 GitHub Statistics
+# 🚀 Featured Projects
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=tokyonight&hide_border=true"/>
-
-<br><br>
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=itskunal786&theme=tokyonight&hide_border=true"/>
+| Project          | Description                      |
+| :--------------- | :------------------------------- |
+| 🌐 FluxDev       | Responsive business platform     |
+| 📍 UseLocator    | Directory & SEO focused platform |
+| 🎓 CIT Education | Modern education platform        |
+| ✈️ TripMart      | Travel experience website        |
+| 💳 USL Pay       | Payment interface improvements   |
 
 </div>
 
 ---
 
-# 🏆 GitHub Achievements
+# 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=itskunal786&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=transparent&hide_border=true"/>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=itskunal786&theme=transparent&hide_border=true"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 Achievements
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=itskunal786&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=itskunal786&theme=algolia&no-frame=true&column=4"/>
 
 </div>
 
 ---
 
-# 🐍 Contribution Snake
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itskunal786&theme=github-dark&hide_border=true"/>
 
 </div>
 
 ---
 
-# 🎯 Current Focus
+# 🎯 Currently Learning
 
-🚀 Next.js
-⚡ TypeScript
-🏗 Scalable Frontend Architecture
-🔥 Performance Engineering
-
----
-
-# ☕ Dev Philosophy
-
-> Build Clean
-> Ship Fast
-> Scale Better
+```txt
+→ Next.js
+→ TypeScript
+→ Scalable Frontend Architecture
+→ High Performance Systems
+```
 
 ---
 
 # 📫 Connect
 
-📧 Email
-[kumarkunalkk0@gmail.com](mailto:kumarkunalkk0@gmail.com)
-
-💼 LinkedIn
-linkedin.com/in/kunalkumarkk
-
-💻 GitHub
-github.com/itskunal786
-
-🌐 Portfolio
-fluxdev.live
+Portfolio → fluxdev.live
+GitHub → github.com/itskunal786
+LinkedIn → linkedin.com/in/kunalkumarkk
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks For Visiting
+### Thanks for visiting ✨
 
-Building premium experiences through code.
-
-Made with ❤️ by Kunal Kumar
+Build → Improve → Ship
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,50:2563eb,100:7c3aed"/>
-
-```
-```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0d1117,50:2563eb,100:60a5fa"/>
