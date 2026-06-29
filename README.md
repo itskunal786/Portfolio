@@ -18,6 +18,7 @@ Building fast, scalable and user-focused web applications with modern technologi
 </p>
 
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Beautiful+Web+Experiences"/>
 
 </div>
