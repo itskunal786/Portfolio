@@ -33,7 +33,7 @@ Passionate about creating clean UI, reusable components, performance optimizatio
 # 💻 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,mysql,postgresql,wordpress,restapi,git,github,vscode,figma,postman"/>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,php,mysql,postgresql,wordpress,git,github,vscode,figma,postman"/>
 </div>
 
 ---
