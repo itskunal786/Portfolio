@@ -13,14 +13,10 @@ Building fast, scalable and user-focused web applications with modern technologi
 </a>
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To-Work-22C55E?style=for-the-badge"/>
-
-
 <p align="left">
-  <a href="https://www.linkedin.com/in/kunalkumarkk" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge" alt="Profile Views" />
 </p>
-</p>
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Frontend+Developer;React.js+Developer;WordPress+Developer;PHP+Developer;Building+Beautiful+Web+Experiences"/>
 
