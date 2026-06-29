@@ -88,18 +88,7 @@ Travel booking platform for flights, train tickets and domestic/international to
 
 ---
 
-# 📈 GitHub Analytics
 
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itskunal786&show_icons=true&theme=transparent&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itskunal786&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itskunal786&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 # 🎯 What I Do
 
@@ -116,6 +105,7 @@ Travel booking platform for flights, train tickets and domestic/international to
 
 # 📚 Currently Learning
 
+- Java
 - Next.js
 - TypeScript
 - Advanced React Patterns
