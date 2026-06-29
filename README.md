@@ -13,8 +13,11 @@ Building fast, scalable and user-focused web applications with modern technologi
 </a>
 <img src="https://img.shields.io/badge/Experience-2%2B%20Years-2563EB?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Open%20To-Work-22C55E?style=for-the-badge"/>
-<p >
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=itskunal786&style=for-the-badge" alt="Profile Views" />
+</p>
+
+<p align="left">
   <a href="https://www.linkedin.com/in/kunalkumarkk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Kunal%20Kumar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
