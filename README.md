@@ -88,8 +88,11 @@ Full-featured WordPress-based education platform built for a live institutional 
 </details>
 
 <details>
-<summary><b>💼 FluxDev — fluxdev.live</b></summary>
-<br/>
+<summary><b>💼 FluxDev</b></summary>
+
+<br>
+
+🌐 <a href="https://fluxdev.live">fluxdev.live</a>
 
 Personal portfolio and dev showcase built with a dark terminal aesthetic and indigo/coral theme, featuring live project showcases and case studies.
 
@@ -105,8 +108,11 @@ Personal portfolio and dev showcase built with a dark terminal aesthetic and ind
 </details>
 
 <details>
-<summary><b>📍 Uselocator — uselocator.com</b></summary>
-<br/>
+<summary><b>📍 Uselocator</b></summary>
+
+<br>
+
+🌐 <a href="https://uselocator.com" target="_blank">uselocator.com</a>
 
 Core product platform built and maintained during tenure at Uselocator India Pvt. Ltd., involving full-stack feature development and REST API integrations.
 
@@ -122,8 +128,11 @@ Core product platform built and maintained during tenure at Uselocator India Pvt
 </details>
 
 <details>
-<summary><b>✈️ Trip Mart — tripmart.co.in</b></summary>
-<br/>
+<summary><b>✈️ Trip Mart</b></summary>
+
+<br>
+
+🌐 <a href="https://tripmart.co.in" target="_blank">tripmart.co.in</a>
 
 Travel booking and listings platform with dynamic content management and custom front-end components.
 
@@ -154,7 +163,7 @@ Driving full-stack feature development across PHP, WordPress, and React.js, buil
 
 `PHP` `WordPress` `React.js` `MySQL` `REST APIs` `JavaScript`
 
-**Software Engineer · Softech Ind Pvt. Ltd.**
+**Software Engineer · Softech Ind Pvt. Ltd.**&nbsp;&nbsp;&nbsp;&nbsp;
 *Prior Experience*
 
 Contributed to web development projects with a focus on PHP-based backend systems and front-end implementation.
