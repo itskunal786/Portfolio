@@ -213,6 +213,7 @@ Contributed to web development projects with a focus on PHP-based backend system
 </div>
 
 ---
+<!-- This is a comment -->
 
 ### 🏅 GitHub Trophies
 
@@ -221,6 +222,7 @@ Contributed to web development projects with a focus on PHP-based backend system
 <img src="https://github-profile-trophy.vercel.app/?username=itskunal786&theme=algolia&no-frame=true&no-bg=true&row=1&margin-w=15&column=6"/>
 
 </div>
+<!-- This is a comment -->
 
 ---
 
