@@ -167,8 +167,8 @@ Contributed to web development projects with a focus on PHP-based backend system
 ---
 ### 💼 Experience
 
-**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**&nbsp;&nbsp;&nbsp;&nbsp;
-*June 2024 — May 2026*
+**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
+&nbsp;&nbsp;&nbsp;&nbsp;*June 2024 — May 2026*
 
 Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
 
@@ -179,8 +179,8 @@ Driving full-stack feature development across PHP, WordPress, and React.js, buil
 
 `PHP` `WordPress` `React.js` `MySQL` `REST APIs` `JavaScript`
 
-**Software Engineer · Softech Ind Pvt. Ltd.**&nbsp;&nbsp;&nbsp;&nbsp;
-*Prior Experience*
+**Software Engineer · Softech Ind Pvt. Ltd.**
+&nbsp;&nbsp;&nbsp;&nbsp;*Prior Experience*
 
 Contributed to web development projects with a focus on PHP-based backend systems and front-end implementation.
 
