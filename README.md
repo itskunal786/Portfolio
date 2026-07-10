@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kunal%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20PHP%20%C2%B7%20WordPress%20%C2%B7%20React.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kunal%20Kumar&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20PHP%20%C2%B7%20WordPress%20%C2%B7%20React.js&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Software+Engineer;PHP+%7C+WordPress+%7C+React.js+%7C+MySQL;Building+scalable+web+platforms;Open+to+new+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;PHP+%7C+WordPress+%7C+React.js+%7C+MySQL;Building+scalable+web+platforms;Open+to+new+opportunities" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -13,16 +13,28 @@
 
 <br/>
 
-<a href="https://github.com/itskunal786/Portfolio" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-<a href="https://linkedin.com/in/kunalkumarkk"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/itskunal786"><img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white"/></a>
+<div align="center">
+
+<a href="https://linkedin.com/in/kunalkumarkk" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumarkunalkk0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+
+<a href="https://wa.me/917879603800" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="https://github.com/itskunal786" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=itskunal786&color=8b5cf6&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/itskunal786?style=for-the-badge&color=7c3aed&labelColor=1e1b2e)
-![Stars](https://img.shields.io/github/stars/itskunal786?style=for-the-badge&color=6d28d9&labelColor=1e1b2e)
 
 </div>
 
@@ -32,17 +44,17 @@
 
 ```yaml
 name: Kunal Kumar
-role: Full-Stack Software Engineer
+role: Full-Stack Software Developer
 experience: 2+ years
 based_in: Bhopal, India
 education: B.Tech in Computer Science, RNTU University (2024)
 ```
 
-I'm a **Full-Stack Software Engineer** with 2+ years of experience building performant, scalable web applications across the **PHP / WordPress** and **React.js / JavaScript** ecosystems. My work spans custom plugin architecture, REST API design, relational database modeling, and modern front-end engineering — with a product mindset focused on shipping maintainable, production-grade software.
+I'm a **Full-Stack Software Developer** with 2+ years of experience building performant, scalable web applications across the **PHP / WordPress** and **React.js / JavaScript** ecosystems. My work spans custom plugin architecture, REST API design, relational database modeling, and modern front-end engineering — with a product mindset focused on shipping maintainable, production-grade software.
 
 I care about clean architecture, ATS-proof craftsmanship in everything I build (code included), and closing the gap between "it works" and "it's built right."
 
-**🎯 Open To:** Full-Stack Engineering roles · PHP/WordPress Development · React.js Front-End roles · Freelance/Contract work
+**🎯 Open To:** Full-Stack Developer roles · PHP/WordPress Development · React.js Front-End roles · Freelance/Contract work
 
 ---
 
@@ -141,7 +153,7 @@ Travel booking and listings platform with dynamic content management and custom 
 
 ### 💼 Experience
 
-**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
+**Full-Stack Developer · Uselocator India Pvt. Ltd.**
 &nbsp;&nbsp;&nbsp;&nbsp;*June 2024 — May 2026*
 
 Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
@@ -268,12 +280,8 @@ Open To:    Full-Stack / PHP / WordPress / React.js opportunities
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:INTELLIFORGESOLUTIONSTECH@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="tel:+917879603800">
-  <img src="https://img.shields.io/badge/Call-0078D4?style=for-the-badge&logo=phone&logoColor=white"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=kumarkunalkk0@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 <a href="https://wa.me/917879603800" target="_blank">
