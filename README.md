@@ -69,7 +69,9 @@ I care about clean architecture, ATS-proof craftsmanship in everything I build (
 ### 🚀 Featured Projects
 
 <details>
-<summary><b>🎓 CIT Education — citeducation.co.in</b></summary>
+<summary>
+  <b>🎓 <a href="https://citeducation.co.in" target="_blank">CIT Education — citeducation.co.in</a></b>
+</summary>
 <br/>
 
 Full-featured WordPress-based education platform built for a live institutional client, covering content management, custom post types, and responsive front-end delivery.
