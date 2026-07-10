@@ -142,7 +142,7 @@ Travel booking and listings platform with dynamic content management and custom 
 
 ### 💼 Experience
 
-**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
+**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**&nbsp;&nbsp;
 *June 2024 — May 2026*
 
 Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
