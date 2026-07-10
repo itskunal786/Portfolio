@@ -64,14 +64,13 @@ I care about clean architecture, ATS-proof craftsmanship in everything I build (
 
 ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![VSCode](https://skillicons.dev/icons?i=vscode) ![Postman](https://skillicons.dev/icons?i=postman)
 
+
 ---
 
 ### 🚀 Featured Projects
 
 <details>
-<summary>
-  <b>🎓 <a href="https://citeducation.co.in" target="_blank">CIT Education — citeducation.co.in</a></b>
-</summary>
+<summary><b>🎓 <a href="https://citeducation.co.in" target="_blank">CIT Education — citeducation.co.in</a></b></summary>
 <br/>
 
 Full-featured WordPress-based education platform built for a live institutional client, covering content management, custom post types, and responsive front-end delivery.
@@ -83,16 +82,13 @@ Full-featured WordPress-based education platform built for a live institutional 
 | **Performance** | Optimized page load via custom query handling |
 | **Security** | Sanitized inputs, hardened WP configuration |
 | **Impact** | Live production deployment serving real users |
-| **Repository** | Private client project |
+| **Live Site** | [citeducation.co.in](https://citeducation.co.in) |
 
 </details>
 
 <details>
-<summary><b>💼 FluxDev</b></summary>
-
-<br>
-
-🌐 <a href="https://fluxdev.live">fluxdev.live</a>
+<summary><b>💼 <a href="https://fluxdev.live" target="_blank">FluxDev — fluxdev.live</a></b></summary>
+<br/>
 
 Personal portfolio and dev showcase built with a dark terminal aesthetic and indigo/coral theme, featuring live project showcases and case studies.
 
@@ -108,11 +104,8 @@ Personal portfolio and dev showcase built with a dark terminal aesthetic and ind
 </details>
 
 <details>
-<summary><b>📍 Uselocator</b></summary>
-
-<br>
-
-🌐 <a href="https://uselocator.com" target="_blank">uselocator.com</a>
+<summary><b>📍 <a href="https://uselocator.com" target="_blank">Uselocator — uselocator.com</a></b></summary>
+<br/>
 
 Core product platform built and maintained during tenure at Uselocator India Pvt. Ltd., involving full-stack feature development and REST API integrations.
 
@@ -123,16 +116,13 @@ Core product platform built and maintained during tenure at Uselocator India Pvt
 | **Performance** | Optimized backend queries and API response times |
 | **Security** | Role-based access, input validation |
 | **Impact** | Core product used in active business operations |
-| **Repository** | Private company project |
+| **Live Site** | [uselocator.com](https://uselocator.com) |
 
 </details>
 
 <details>
-<summary><b>✈️ Trip Mart</b></summary>
-
-<br>
-
-🌐 <a href="https://tripmart.co.in" target="_blank">tripmart.co.in</a>
+<summary><b>✈️ <a href="https://tripmart.co.in" target="_blank">Trip Mart — tripmart.co.in</a></b></summary>
+<br/>
 
 Travel booking and listings platform with dynamic content management and custom front-end components.
 
@@ -143,12 +133,38 @@ Travel booking and listings platform with dynamic content management and custom 
 | **Performance** | Custom caching and optimized asset delivery |
 | **Security** | Sanitized forms, secure admin workflows |
 | **Impact** | Live production platform for travel bookings |
-| **Repository** | Private client project |
+| **Live Site** | [tripmart.co.in](https://tripmart.co.in) |
 
 </details>
 
 ---
 
+### 💼 Experience
+
+**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
+*2024 — Present*
+
+Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
+
+- Built and maintained custom WordPress plugins and REST API integrations
+- Developed React.js front-end interfaces for internal and client-facing products
+- Owned MySQL schema design and query optimization for core features
+- Collaborated across the stack from database to deployment
+
+`PHP` `WordPress` `React.js` `MySQL` `REST APIs` `JavaScript`
+
+**Software Engineer · Softech Ind Pvt. Ltd.**
+*Prior Experience*
+
+Contributed to web development projects with a focus on PHP-based backend systems and front-end implementation.
+
+- Developed and maintained PHP-based web applications
+- Worked on database design and backend logic
+- Supported front-end implementation and bug resolution
+
+`PHP` `MySQL` `JavaScript` `HTML/CSS`
+
+---
 ### 💼 Experience
 
 **Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**&nbsp;&nbsp;&nbsp;&nbsp;
