@@ -13,7 +13,7 @@
 
 <br/>
 
-<a href="https://fluxdev.live"><img src="https://img.shields.io/badge/Portfolio-fluxdev.live-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://github.com/itskunal786/Portfolio" target="_blank"> <img src="https://img.shields.io/badge/GitHub_Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>/></a>
 <a href="https://linkedin.com/in/kunalkumarkk"><img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-5B21B6?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://github.com/itskunal786"><img src="https://img.shields.io/badge/GitHub-Follow-9333EA?style=for-the-badge&logo=github&logoColor=white"/></a>
