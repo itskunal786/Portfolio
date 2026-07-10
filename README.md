@@ -142,32 +142,6 @@ Travel booking and listings platform with dynamic content management and custom 
 ### 💼 Experience
 
 **Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
-*2024 — Present*
-
-Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
-
-- Built and maintained custom WordPress plugins and REST API integrations
-- Developed React.js front-end interfaces for internal and client-facing products
-- Owned MySQL schema design and query optimization for core features
-- Collaborated across the stack from database to deployment
-
-`PHP` `WordPress` `React.js` `MySQL` `REST APIs` `JavaScript`
-
-**Software Engineer · Softech Ind Pvt. Ltd.**
-*Prior Experience*
-
-Contributed to web development projects with a focus on PHP-based backend systems and front-end implementation.
-
-- Developed and maintained PHP-based web applications
-- Worked on database design and backend logic
-- Supported front-end implementation and bug resolution
-
-`PHP` `MySQL` `JavaScript` `HTML/CSS`
-
----
-### 💼 Experience
-
-**Full-Stack Software Engineer · Uselocator India Pvt. Ltd.**
 &nbsp;&nbsp;&nbsp;&nbsp;*June 2024 — May 2026*
 
 Driving full-stack feature development across PHP, WordPress, and React.js, building and maintaining production systems end to end.
